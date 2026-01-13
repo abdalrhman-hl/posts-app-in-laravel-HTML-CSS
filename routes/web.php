@@ -37,3 +37,5 @@ Route::delete('/posts/{posts}',[PostController::class,'destroy'])->name('posts.d
 
 //1- عرف راوت جديد لكي يستطيع المستخدم الوصول اليه من المتصفح
 //2-عرف كونترولر الذي ينشئ الview 
+//new comment
+
